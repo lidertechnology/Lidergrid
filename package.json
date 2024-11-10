@@ -1,0 +1,23 @@
+{
+  "name": "lidergrid",
+  "version": "1.0.0",
+  "description": "Paquete para uso de grid en css para angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "grid-css",
+    "grid-angular",
+    "angular ",
+    "lidertech",
+    "grid",
+    "lidergrid"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
