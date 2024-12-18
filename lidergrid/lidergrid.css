@@ -245,3 +245,15 @@ p {
     max-width: 60rem;
   }
 }
+
+
+
+/** GRID CARD RESPONSIVE LIDER*/
+.liderGridCard {
+  display: grid;
+  gap: 1rem;
+  grid-auto-rows: 22rem;
+  grid-template-columns: repeat(auto-fill, min-max(15rem-1fr));
+}
+
+
