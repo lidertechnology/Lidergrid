@@ -1,6 +1,6 @@
 {
   "name": "lidergrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Paquete para uso de grid en css para angular",
   "main": "index.js",
   "scripts": {
